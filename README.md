@@ -1,2 +1,0 @@
-# gitproba1
-prvigit
